@@ -23,7 +23,7 @@ This repository contains a simple GraphQL API built with Express.js. The API all
    ```
 4. Start the server:
    ```sh
-   node index.js
+   node server.js
    ```
 5. Open GraphiQL in the browser:
    ```
